@@ -1,7 +1,7 @@
 <h1>Nome da Startup: Master Marketing</h1>
 
 <h1>Descrição da empresa</h1>
-<p>Somos uma empresa especializada em marketing e publicidade digital, dedicada a impulsionar o crescimento de indivíduos e negócios no mercado. Com estratégias inovadoras e personalizadas, ajudamos nossos clientes a alcançar seus objetivos, construir marcas sólidas e se destacar em um ambiente competitivo. Nosso compromisso é oferecer soluções criativas e eficazes que transformem ideias em resultados</p>
+<p>Somos uma empresa de marketing e publicidade digital que ajuda pessoas e negócios a crescerem no mercado, com estratégias criativas e eficazes para transformar ideias em resultados</p>
 
 <h1>Missão</h1>
 <p>A missão da nossa empresa é capacitar pessoas no marketing digital através de aprendizado acessível e eficaz. Nos empenhamos em fornecer ferramentas e conhecimento que empoderem nossos clientes a alcançar seus objetivos de forma independente e profissional.</p>
